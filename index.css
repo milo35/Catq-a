@@ -1,0 +1,21 @@
+body{
+  Background-color:#2cbf98;
+}
+#catpicture{
+  Width: 20%;
+}
+#dogpicture{
+  Width: 20%;
+}
+#Catcomputer{
+  Width: 20%;
+}
+#catphone{
+  Width: 20%;
+}
+#catinsink{
+  width: 20%;
+}
+ol{
+  font-size: 20px;
+}
